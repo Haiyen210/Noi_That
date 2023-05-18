@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fHZ4uhGgyZaUmVgLJqnsc+M6e/Qr5wIUC9DKwMxETiQ=",
+  "Source": "NoiThat.API",
+  "BasePath": "_content/NoiThat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

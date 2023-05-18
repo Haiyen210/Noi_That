@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NoiThat.API.props" />
+</Project>
